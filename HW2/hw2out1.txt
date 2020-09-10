@@ -1,0 +1,5 @@
+---Course schedule---
+CSE1002 TR1100
+SPS3901 TR1500
+---Courses with a time conflict---
+AVF4002 TR1100

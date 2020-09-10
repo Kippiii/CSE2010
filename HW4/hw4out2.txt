@@ -1,0 +1,15 @@
+EnterBuyOrder 042235 Alice 20.00 15
+EnterBuyOrder 042708 Carol 16.00 15
+EnterSellOrder 045055 Bob 10.00 4
+ExecuteBuySellOrders 15.00 4
+Buyer: Alice 11
+Seller: Bob 0
+EnterSellOrder 051112 David 20.00 6
+ExecuteBuySellOrders 20.00 6
+Buyer: Alice 5
+Seller: David 0
+EnterSellOrder 051612 Edison 30.00 9
+EnterSellOrder 051742 Franklin 32.00 2
+EnterBuyOrder 052202 Galileo 23.00 2
+DisplayHighestBuyOrder 060319 Galileo 052202 23.00 2
+DisplayLowestSellOrder 064038 Edison 051612 30.00 3

@@ -1,0 +1,9 @@
+winterOlympics2014 speedSkating figureSkating
+speedSkating 1000mWomen 1000mMen 1500mWomen 1500mMen
+figureSkating individualWomen individualMen 
+1000mWomen Zhang:CHN Wust:NED Boer:NED
+1000mMen Groothuis:NED Morrison:CAN Mulder:NED
+1500mWomen TerMors:NED Wust:NED vanBeek:NED
+1500mMen Brodka:POL Verweij:NED Morrison:CAN
+individualWomen Sotnikova:RUS Kim:KOR Kostner:ITA
+individualMen Hanyu:JPN Chan:CAN Ten:KAZ

@@ -1,0 +1,45 @@
+SetShippingCost amazon 2 20
+SetShippingCost walmart 3.7 50
+SetShippingCost bestbuy 4.29 25
+SetProductPrice appleIphone amazon 599
+SetProductPrice appleIphone walmart 589
+SetProductPrice appleIphone bestbuy 619
+SetProductPrice hdmi2VgaAdapter amazon 21.99
+SetProductPrice hdmi2VgaAdapter walmart 22.99
+SetProductPrice hdmi2VgaAdapter bestbuy 25.99
+SetProductPrice USBdrive amazon 15.99
+SetProductPrice USBdrive walmart 12.99
+SetProductPrice USBdrive bestbuy 16.99
+IncreaseInventory appleIphone amazon 7
+IncreaseInventory appleIphone walmart 4
+IncreaseInventory appleIphone bestbuy 6
+IncreaseInventory hdmi2VgaAdapter amazon 5
+IncreaseInventory hdmi2VgaAdapter walmart 5
+IncreaseInventory hdmi2VgaAdapter bestbuy 5
+IncreaseInventory USBdrive amazon 3
+IncreaseInventory USBdrive walmart 3
+IncreaseInventory USBdrive bestbuy 4
+CustomerPurchase appleIphone amazon 2
+CustomerPurchase appleIphone amazon 1
+CustomerPurchase appleIphone amazon 1
+CustomerPurchase appleIphone amazon 1
+CustomerPurchase appleIphone amazon 1
+CustomerPurchase appleIphone amazon 1
+CustomerPurchase appleIphone walmart 2
+CustomerPurchase appleIphone walmart 1
+CustomerPurchase appleIphone bestbuy 1
+CustomerPurchase appleIphone bestbuy 2
+CustomerPurchase appleIphone bestbuy 2
+CustomerPurchase hdmi2VgaAdapter amazon 2
+CustomerPurchase hdmi2VgaAdapter amazon 2
+CustomerPurchase hdmi2VgaAdapter walmart 2
+CustomerPurchase hdmi2VgaAdapter bestbuy 3
+CustomerPurchase hdmi2VgaAdapter bestbuy 3
+CustomerPurchase USBdrive amazon 1
+CustomerPurchase USBdrive walmart 1
+CustomerPurchase USBdrive bestbuy 1
+DisplaySellerList appleIphone
+DisplaySellerList hdmi2VgaAdapter
+DisplaySellerList USBdrive
+IncreaseInventory appleIphone amazon 3
+DisplaySellerList appleIphone

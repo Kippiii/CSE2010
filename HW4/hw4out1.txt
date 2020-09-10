@@ -1,0 +1,9 @@
+EnterBuyOrder 061332 Alice 30.00 5
+EnterSellOrder 061455 Bob 30.00 3
+ExecuteBuySellOrders 30.00 3
+Buyer: Alice 2
+Seller: Bob 0
+DisplayHighestBuyOrder 070011 Alice 061332 30.00 2
+DisplayLowestSellOrder 081239
+EnterSellOrder 081421 Bob 35.00 3
+DisplayLowestSellOrder 081503 Bob 081421 35.00 3

@@ -1,0 +1,27 @@
+AddActivity 01110634 Running
+AddActivity 01110658 Walking
+AddActivity 01110747 Breakfast
+AddActivity 01111239 Lunch
+AddActivity 01111848 Dinner
+AddActivity 01120621 Biking
+AddActivity 01120944 Work
+AddActivity 01121602 Teatime
+AddActivity 01122342 Sleep
+AddActivity 01131023 Walking
+AddActivity 01131134 Work
+AddActivity 01131258 Lunch
+AddActivity 01131447 Subway
+AddActivity 01131639 Meeting
+AddActivity 01141748 Sport
+AddActivity 01142021 Study
+RemoveActivity 01142021 Study
+GetActivity 01120411 none
+GetActivitiesBetweenTimes 01110600 01110800 01110634:Running 01110658:Walking
+GetActivitiesForOneDay 0114 01141748:Sport
+GetActivitiesFromEarlierInTheDay 01100000 none
+PrintSkipList
+(S4) empty
+(S3) 01121602:Teatime
+(S2) 01111239:Lunch 01121602:Teatime 01131258:Lunch
+(S1) 01110658:Walking 01111239:Lunch 01120621:Biking 01121602:Teatime 01131023:Walking 01131258:Lunch 01131639:Meeting
+(S0) 01110634:Running 01110658:Walking 01110747:Breakfast 01111239:Lunch 01111848:Dinner 01120621:Biking 01120944:Work 01121602:Teatime 01122342:Sleep 01131023:Walking 01131134:Work 01131258:Lunch 01131447:Subway 01131639:Meeting 01141748:Sport

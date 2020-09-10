@@ -1,0 +1,7 @@
+---Course schedule---
+BEH4550 MWF0900
+CVE2080 MWF1100
+CYB5800 MWF1500
+LNG1601 TR1300
+---Courses with a time conflict---
+ENM5330 MWF0900 MWF1100

@@ -1,0 +1,11 @@
+EnterBuyOrder 042235 Alice 20.00 15
+EnterBuyOrder 042708 Carol 16.00 15
+EnterSellOrder 045055 Bob 10.00 4
+EnterSellOrder 051112 David 20.00 6
+EnterSellOrder 051612 Edison 30.00 9
+EnterBuyOrder 051742 Franklin 12.00 2
+EnterBuyOrder 052202 Galileo 13.00 4
+EnterSellOrder 053027 Hawking 18.00 9
+EnterSellOrder 053146 Isaac 14.00 9
+DisplayHighestBuyOrder 060319 
+DisplayLowestSellOrder 064038

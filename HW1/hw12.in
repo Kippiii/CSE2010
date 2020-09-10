@@ -1,0 +1,22 @@
+SetProductPrice hdmi2VgaAdapter 0123456789 6.50
+SetProductPrice appleIphone 0123456789 12.0
+SetShippingCost 0123456789 3 10
+SetProductPrice hdmi2VgaAdapter zzzzzzzzzz 9.50
+SetProductPrice appleIphone zzzzzzzzzz 11.00
+SetShippingCost zzzzzzzzzz 100 3
+SetProductPrice hdmi2VgaAdapter abcdefghij 8
+SetShippingCost abcdefghij 1.25 1000
+CustomerPurchase hdmi2VgaAdapter 0123456789 8
+IncreaseInventory hdmi2VgaAdapter 0123456789 7
+CustomerPurchase hdmi2VgaAdapter 0123456789 8
+CustomerPurchase hdmi2VgaAdapter 0123456789 7
+IncreaseInventory hdmi2VgaAdapter zzzzzzzzzz 10
+IncreaseInventory hdmi2VgaAdapter zzzzzzzzzz 12
+IncreaseInventory hdmi2VgaAdapter abcdefghij 1
+DisplaySellerList hdmi2VgaAdapter
+IncreaseInventory hdmi2VgaAdapter 0123456789 3
+DisplaySellerList hdmi2VgaAdapter
+IncreaseInventory appleIphone zzzzzzzzzz 1
+IncreaseInventory appleIphone abcdefghij 1
+IncreaseInventory appleIphone 0123456789 1
+DisplaySellerList appleIphone

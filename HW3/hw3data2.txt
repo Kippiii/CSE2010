@@ -1,0 +1,29 @@
+winterOlympics2014 alpineSkiing snowBoard biathlon skiJumping speedSkating figureSkating
+alpineSkiing slalomMen superGMen downhillMen slalomWomen superGWomen downhillWomen 
+snowBoard parallelSlalomMen parallelSlalomWomen crossMen crossWomen
+biathlon 20kmMen 12.5kmPursuitMen 15kmWomen 10kmPursuitWomen
+skiJumping normalHillIndividualMen normalHillIndividualWomen
+speedSkating 1000mWomen 1000mMen 1500mWomen 1500mMen
+figureSkating individualWomen individualMen 
+slalomMen Matt:AUT Hirscher:AUT Kristoffersen:NOR
+superGMen Jansrud:NOR Weibrecht:USA Hudec:CAN
+downhillMen Mayer:AUT Innerhofer:ITA Jansrud:NOR
+slalomWomen Shiffrin:USA Schild:AUT Zettel:AUT
+superGWomen Fenniger:AUT Riesch:GER Hosp:AUT
+downhillWomen Maze:SLO Gisin:Sui Gut:SUI
+20kmMen Fourcade:FRA Lesser:GER Garanichev:RUS
+12.5kmPursuitMen Fourcade:FRA Moravec:CZE Beatrix:FRA
+15kmWomen Domracheva:BLR Gasparin:SUI SkarDino:BLR
+10kmPursuitWomen Domracheva:BLR Berger:NOR Gregorin:SLO
+normalHillIndividualMen Stock:POL Prevc:SLO Bardal:NOR
+normalHillIndividualWomen Vogt:GER Iraschko-Stolz:AUT Mattel:FRA
+1000mWomen Zhang:CHN Wust:NED Boer:NED
+1000mMen Groothuis:NED Morrison:CAN Mulder:NED
+1500mWomen TerMors:NED Wust:NED vanBeek:NED
+1500mMen Brodka:POL Verweij:NED Morrison:CAN
+parallelSlalomMen Wild:RUS Kosir:SLO Karl:AUT
+parallelSlalomWomen Dujmovits:AUT Karstens:GER Kober:GER
+crossMen Vaultier:FRA Olyunin:RUS Deibold:USA
+crossWomen Samkova:CZE Maltais:CAN Trespeuch:FRA
+individualWomen Sotnikova:RUS Kim:KOR Kostner:ITA
+individualMen Hanyu:JPN Chan:CAN Ten:KAZ

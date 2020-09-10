@@ -1,0 +1,10 @@
+SetShippingCost seller1 2 20
+SetProductPrice appleIphone seller1 599
+IncreaseInventory appleIphone seller1 3 3
+CustomerPurchase appleIphone seller1 1 2
+CustomerPurchase appleIphone seller1 1 1
+CustomerPurchase appleIphone seller1 2 NotEnoughInventoryError
+IncreaseInventory appleIphone seller1 2 3
+DisplaySellerList appleIphone
+    seller  productPrice  shippingCost  totalCost
+   seller1        599.00          0.00     599.00

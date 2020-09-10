@@ -1,0 +1,8 @@
+SetShippingCost seller1 2 20
+SetProductPrice appleIphone seller1 599
+IncreaseInventory appleIphone seller1 3
+CustomerPurchase appleIphone seller1 1
+CustomerPurchase appleIphone seller1 1
+CustomerPurchase appleIphone seller1 2
+IncreaseInventory appleIphone seller1 2
+DisplaySellerList appleIphone

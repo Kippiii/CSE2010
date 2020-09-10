@@ -1,0 +1,19 @@
+AddActivity 01110000 Quarantine
+AddActivity 01110000 AbsolutelyNothing
+AddActivity 01110001 Sleeping
+AddActivity 01110634 Running
+AddActivity 01110658 Walking
+AddActivity 01110747 Breakfast
+AddActivity 01111239 Lunch
+RemoveActivity 12405612
+GetActivity 01120411
+GetActivitiesBetweenTimes 01110000 01110652
+GetActivitiesForOneDay 0111
+GetActivitiesFromEarlierInTheDay 01110001
+PrintSkipList
+RemoveActivity 01110658
+PrintSkipList
+RemoveActivity 01110001
+RemoveActivity 01111239
+AddActivity 01202110 Reading
+PrintSkipList

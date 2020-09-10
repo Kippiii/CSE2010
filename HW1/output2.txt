@@ -1,0 +1,60 @@
+SetShippingCost amazon 2 20
+SetShippingCost walmart 3.7 50
+SetShippingCost bestbuy 4.29 25
+SetProductPrice appleIphone amazon 599
+SetProductPrice appleIphone walmart 589
+SetProductPrice appleIphone bestbuy 619
+SetProductPrice hdmi2VgaAdapter amazon 21.99
+SetProductPrice hdmi2VgaAdapter walmart 22.99
+SetProductPrice hdmi2VgaAdapter bestbuy 25.99
+SetProductPrice USBdrive amazon 15.99
+SetProductPrice USBdrive walmart 12.99
+SetProductPrice USBdrive bestbuy 16.99
+IncreaseInventory appleIphone amazon 7 7
+IncreaseInventory appleIphone walmart 4 4
+IncreaseInventory appleIphone bestbuy 6 6
+IncreaseInventory hdmi2VgaAdapter amazon 5 5
+IncreaseInventory hdmi2VgaAdapter walmart 5 5
+IncreaseInventory hdmi2VgaAdapter bestbuy 5 5
+IncreaseInventory USBdrive amazon 3 3
+IncreaseInventory USBdrive walmart 3 3
+IncreaseInventory USBdrive bestbuy 4 4
+CustomerPurchase appleIphone amazon 2 5
+CustomerPurchase appleIphone amazon 1 4
+CustomerPurchase appleIphone amazon 1 3
+CustomerPurchase appleIphone amazon 1 2
+CustomerPurchase appleIphone amazon 1 1
+CustomerPurchase appleIphone amazon 1 0
+CustomerPurchase appleIphone walmart 2 2
+CustomerPurchase appleIphone walmart 1 1
+CustomerPurchase appleIphone bestbuy 1 5
+CustomerPurchase appleIphone bestbuy 2 3
+CustomerPurchase appleIphone bestbuy 2 1
+CustomerPurchase hdmi2VgaAdapter amazon 2 3
+CustomerPurchase hdmi2VgaAdapter amazon 2 1
+CustomerPurchase hdmi2VgaAdapter walmart 2 3
+CustomerPurchase hdmi2VgaAdapter bestbuy 3 2
+CustomerPurchase hdmi2VgaAdapter bestbuy 3 NotEnoughInventoryError
+CustomerPurchase USBdrive amazon 1 2
+CustomerPurchase USBdrive walmart 1 2
+CustomerPurchase USBdrive bestbuy 1 3
+DisplaySellerList appleIphone
+    seller  productPrice  shippingCost  totalCost
+   walmart        589.00          0.00     589.00
+   bestbuy        619.00          0.00     619.00
+DisplaySellerList hdmi2VgaAdapter
+    seller  productPrice  shippingCost  totalCost
+    amazon         21.99          0.00      21.99
+   bestbuy         25.99          0.00      25.99
+   walmart         22.99          3.70      26.69
+DisplaySellerList USBdrive
+    seller  productPrice  shippingCost  totalCost
+   walmart         12.99          3.70      16.69
+    amazon         15.99          2.00      17.99
+   bestbuy         16.99          4.29      21.28
+IncreaseInventory appleIphone amazon 3 3
+DisplaySellerList appleIphone
+    seller  productPrice  shippingCost  totalCost
+   walmart        589.00          0.00     589.00
+    amazon        599.00          0.00     599.00
+   bestbuy        619.00          0.00     619.00

@@ -1,0 +1,14 @@
+SetProductPrice appleIphone bseller 10.50
+SetShippingCost bseller 2.50 9.50
+SetShippingCost cseller 2.50 100.0
+SetProductPrice appleIphone cseller 8
+SetProductPrice appleIphone aseller 10.50
+SetShippingCost aseller 2.50 6.33
+IncreaseInventory appleIphone bseller 1 1
+IncreaseInventory appleIphone cseller 1 1
+IncreaseInventory appleIphone aseller 1 1
+DisplaySellerList
+    seller  productPrice  shippingCost  totalCost
+   aseller         10.50          0.00      10.50
+   bseller         10.50          0.00      10.50
+   cseller          8.00          2.50      10.50

@@ -1,0 +1,12 @@
+GetEventsBySport speedSkating 1000mMen 1000mWomen 1500mMen 1500mWomen
+GetEventsBySport figureSkating individualMen individualWomen
+GetWinnersAndCountriesBySportAndEvent figureSkating individualWomen Sotnikova:RUS Kim:KOR Kostner:ITA
+GetGoldMedalistAndCountryBySportAndEvent speedSkating 1000mMen Groothuis:NED
+GetAthleteWithMostMedals 2 Morrison Wust
+GetAthleteWithMostGoldMedals 1 Brodka Groothuis Hanyu Sotnikova TerMors Zhang
+GetCountryWithMostMedals 8 NED
+GetCountryWithMostGoldMedals 2 NED
+GetSportAndEventByAthlete Sotnikova figureSkating:individualWomen
+GetSportAndEventByAthlete Kostner figureSkating:individualWomen
+GetSportAndEventByAthlete Wust speedSkating:1000mWomen speedSkating:1500mWomen
+GetSportAndEventByAthlete Morrison speedSkating:1000mMen speedSkating:1500mMen
